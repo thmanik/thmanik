@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Md Tofazzol Hossain Manik
-![Image](https://github.com/user-attachments/assets/44cdc070-36a8-492a-ae6e-a219d5f8dbe1)
+![Image](https://github.com/user-attachments/assets/774bfbcd-29d3-4fa7-b43a-e7d9b1965580)
  A passionate Frontend Developer from Dhaka, Bangladesh. I specialize in building interactive, user-friendly, and scalable web applications using modern technologies.
 🚀 What I Do:
 
