@@ -1,7 +1,5 @@
 ### Hi there 👋, 👋 Hi there! I'm Md Tofazzol Hossain Manik
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
- a passionate Frontend Developer from Dhaka, Bangladesh. I specialize in building interactive, user-friendly, and scalable web applications using modern technologies.
+ A passionate Frontend Developer from Dhaka, Bangladesh. I specialize in building interactive, user-friendly, and scalable web applications using modern technologies.
 🚀 What I Do:
 
 Develop responsive and high-performance web applications
