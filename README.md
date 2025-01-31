@@ -19,9 +19,9 @@ An opportunity to apply my frontend skills and technical expertise to contribute
 
 **SKILLS**
 
-**Expertise:** HTML5, CSS3, React.js, Tailwind CSS, Bootstrap, React-Router-DOM, Next.js, React Query
+**Expertise:** HTML5, CSS3, React.js, Tailwind CSS, Bootstrap, React-Router-DOM, React Query
 
-**Comfortable:** JavaScript, TypeScript, Express.js, ES6, REST APIs, MongoDB, Dotenv, Redux
+**Comfortable:** JavaScript, TypeScript, Express.js, Next.js, ES6, REST APIs, MongoDB, Dotenv, Redux
 
 **Familiar:** Node.js, JWT
 
