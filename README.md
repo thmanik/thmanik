@@ -5,9 +5,9 @@
  A passionate Frontend Developer from Dhaka, Bangladesh. I specialize in building interactive, user-friendly, and scalable web applications using modern technologies.
  
 ### 🚀 What I Do:
-Develop responsive and high-performance web applications
-Work with React, Next.js, JavaScript, TypeScript, Tailwind CSS, and more
-Continuously learn and adapt to new frontend trends
+- Develop responsive and high-performance web applications  
+- Work with **React**, **Next.js**, **JavaScript**, **TypeScript**, **Tailwind CSS**, and more  
+- Continuously learn and adapt to new frontend trends  
 🎯 Looking For:
 An opportunity to apply my frontend skills and technical expertise to contribute to innovative projects while expanding my knowledge in emerging technologies.
 
