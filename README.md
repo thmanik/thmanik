@@ -1,4 +1,4 @@
-### Hi there 👋, 👋 Hi there! I'm Md Tofazzol Hossain Manik
+### Hi there 👋, I'm Md Tofazzol Hossain Manik
  A passionate Frontend Developer from Dhaka, Bangladesh. I specialize in building interactive, user-friendly, and scalable web applications using modern technologies.
 🚀 What I Do:
 
