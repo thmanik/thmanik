@@ -1,16 +1,15 @@
-### Hi there 👋, 
+
 ### I'm Md Tofazzol Hossain Manik
 
 ![Image](https://github.com/user-attachments/assets/774bfbcd-29d3-4fa7-b43a-e7d9b1965580)
  A passionate Frontend Developer from Dhaka, Bangladesh. I specialize in building interactive, user-friendly, and scalable web applications using modern technologies.
  
-### 🚀 What I Do:
+###  What I Do:
 - Develop responsive and high-performance web applications  
 - Work with **React**, **Next.js**, **JavaScript**, **TypeScript**, **Tailwind CSS**, and more  
 - Continuously learn and adapt to new frontend trends
 
-🎯 Looking For:
-An opportunity to apply my frontend skills and technical expertise to contribute to innovative projects while expanding my knowledge in emerging technologies.
+ Looking For An opportunity to apply my frontend skills and technical expertise to contribute to innovative projects while expanding my knowledge in emerging technologies.
 
 
 
